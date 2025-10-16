@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Corbin!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision+Researcher;2D%2F3D+Image+Analysis+%26+Semantic+Completion;Multi-view+Fusion+%26+3D+Reconstruction;XDU+%7C+西安电子科技大学" alt="Typing SVG" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision+Researcher;2D%2F3D+Image+Analysis+%26+Semantic+Completion;Multi-view+Fusion+%26+3D+Reconstruction;XDU+%7C+西安电子科技大学)](https://git.io/typing-svg)
+
 </div>
 
 ## 🎓 About Me
@@ -54,7 +56,9 @@ research_areas = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Corbin-xdu&theme=tokyonight" alt="GitHub Streak"/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Corbin-xdu&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ## 🏆 GitHub Trophies
