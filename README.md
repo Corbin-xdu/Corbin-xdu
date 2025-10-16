@@ -50,18 +50,26 @@ research_areas = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corbin-xdu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=2E96F7&title_color=2E96F7&icon_color=2E96F7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corbin-xdu&layout=compact&langs_count=8&theme=default&border_color=2E96F7&title_color=2E96F7"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Corbin-xdu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=2E96F7&title_color=2E96F7&icon_color=2E96F7&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corbin-xdu&layout=compact&langs_count=8&theme=default&border_color=2E96F7&title_color=2E96F7&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=Corbin-xdu&theme=default&border=2E96F7&ring=2E96F7&fire=FF9554&currStreakLabel=2E96F7&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Corbin-xdu&theme=default&border=2E96F7&ring=2E96F7&fire=FF9554&currStreakLabel=2E96F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Corbin-xdu&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Corbin-xdu&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 ## 📈 Activity Graph
 
@@ -90,7 +98,7 @@ Here are some of my key projects in Computer Vision and 3D Reconstruction:
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hbkangovo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourid)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/yourprofile)
 
