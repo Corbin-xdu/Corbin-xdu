@@ -51,26 +51,22 @@ research_areas = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corbin-xdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corbin-xdu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corbin-xdu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=2E96F7&title_color=2E96F7&icon_color=2E96F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corbin-xdu&layout=compact&langs_count=8&theme=default&border_color=2E96F7&title_color=2E96F7"/>
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Corbin-xdu&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Corbin-xdu&theme=default&border=2E96F7&ring=2E96F7&fire=FF9554&currStreakLabel=2E96F7)](https://git.io/streak-stats)
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Corbin-xdu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Corbin-xdu&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Corbin-xdu&theme=github-light&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -79,7 +75,7 @@ Here are some of my key projects in Computer Vision and 3D Reconstruction:
 
 <!-- 你可以添加具体项目 -->
 <!-- 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Corbin-xdu&repo=project-name&theme=tokyonight)](https://github.com/Corbin-xdu/project-name)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Corbin-xdu&repo=project-name&theme=default&border_color=2E96F7)](https://github.com/Corbin-xdu/project-name)
 -->
 
 ## 📝 Latest Research Interests
@@ -103,7 +99,7 @@ Here are some of my key projects in Computer Vision and 3D Reconstruction:
 ## 💭 Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -113,3 +109,4 @@ Here are some of my key projects in Computer Vision and 3D Reconstruction:
   
   *"The best way to predict the future is to create it."* - Peter Drucker
 </div>
+
