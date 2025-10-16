@@ -48,12 +48,6 @@ research_areas = {
 }
 ```
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corbin-xdu&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=2E96F7&title_color=2E96F7&icon_color=2E96F7"/>
-</div>
-
 
 ## 📈 Activity Graph
 
