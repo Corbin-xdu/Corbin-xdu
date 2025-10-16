@@ -91,7 +91,6 @@ Here are some of my key projects in Computer Vision and 3D Reconstruction:
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hbkangovo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourid)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/yourprofile)
 
@@ -109,13 +108,4 @@ Here are some of my key projects in Computer Vision and 3D Reconstruction:
   <img src="https://komarev.com/ghpvc/?username=Corbin-xdu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
   *"The best way to predict the future is to create it."* - Peter Drucker
-</div>
-
-<!-- Snake eating contributions animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Corbin-xdu/Corbin-xdu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Corbin-xdu/Corbin-xdu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Corbin-xdu/Corbin-xdu/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
